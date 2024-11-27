@@ -2,7 +2,7 @@
 - Mentor: M. Rifqi Akram
 
 ## Breast Cancer Classification using Logistic Regression
-This project demonstrates how to use the **Breast Cancer dataset** from **scikit-learn** and applies the **Logistic Regression** algorithm for binary classification. The goal is to predict whether a tumor is **malignant** (0) or **benign** (1) based on various features such as mean radius, mean texture, mean smoothness, etc.
+This project demonstrates how to use the **Breast Cancer dataset** from **scikit-learn** and applies the **Logistic Regression** algorithm for binary classification. The goal is to predict whether a tumor is **malignant** (0) or **benign** (1) based on various features such as mean radius, mean texture, mean smoothness, etc. This project uses a dataset which can be accessed through this link: https://scikit-learn.org/1.5/modules/generated/sklearn.datasets.load_breast_cancer.html
 
 ## Project Overview
 This project is focused on using **Logistic Regression** to classify breast cancer tumors based on a set of features. The dataset comes with a variety of features that describe characteristics of cell nuclei present in breast cancer biopsies. The classification is based on the following two possible outcomes:

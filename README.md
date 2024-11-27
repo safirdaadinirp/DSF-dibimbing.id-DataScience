@@ -1,5 +1,5 @@
 # Dibimbing.id | Digital Skill Fair 33.0 - Data Science
-- mentor: M. Rifqi Akram
+- Mentor: M. Rifqi Akram
 
 ## Breast Cancer Classification using Logistic Regression
 This project demonstrates how to use the **Breast Cancer dataset** from **scikit-learn** and applies the **Logistic Regression** algorithm for binary classification. The goal is to predict whether a tumor is **malignant** (0) or **benign** (1) based on various features such as mean radius, mean texture, mean smoothness, etc.
